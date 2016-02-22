@@ -1,0 +1,23 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="http://mail-server-secure-auto-respond.drewfamous.com" resolutions="1x" timestamp="1456181458791">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="index.css" crc="4288349637" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="roboto-light-webfont.woff" crc="144435638"/>
+    <file name="roboto-light-webfont.eot" crc="4024267286"/>
+    <file name="roboto-light-webfont.svg" crc="4128859855"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="index"/>
+    <file name="museutils.js" crc="183364071" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="71412426" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="xlnkwr8.jpg" crc="4286023313" ref="index"/>
+    <file name="drew-signature-crop.png" crc="34058067" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4154149887" seo="true" mt="1456180412520" redirect="true"/>
+</manifest>
